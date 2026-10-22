@@ -1,0 +1,15 @@
+Atkinson_Hyperlegible_Next
+Bookerly
+Calibri
+Cambria
+Candara
+Constantia
+Corbel
+Helvetica_Neue_eText_Pro
+Libre_Baskerville
+Literata
+Microsoft Aptos Fonts
+OpenDyslexic
+Palatino
+Sitka
+Source_Serif_4
